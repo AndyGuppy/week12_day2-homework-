@@ -1,0 +1,21 @@
+{
+  "name": "birds_site",
+  "version": "1.0.0",
+  "description": "Homework Week 12 Day 2",
+  "main": "app.js",
+  "scripts": {
+    "test": "node_modules/.bin/mocha client/src/models/specs",
+    "start": "nodemon server.js"
+  },
+  "author": "Andy Guppy - Cohort 9",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.13.4"
+  },
+  "devDependencies": {
+    "body-parser": "^1.15.2",
+    "mocha": "^3.0.2",
+    "nodemon": "^1.11.0",
+    "webpack": "^1.12.15"
+  }
+}

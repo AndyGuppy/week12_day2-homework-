@@ -1,0 +1,18 @@
+body {
+	background-color: black;
+	color: ivory;
+}
+#birds {
+	background-color: gray;
+	border-radius: 25px;
+    padding: 20px; 
+    width: 400px;
+}
+
+strong {
+	color: red;
+}
+
+.li {
+	color: dark-gray;
+}
